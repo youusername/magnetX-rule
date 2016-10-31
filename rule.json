@@ -1,5 +1,15 @@
 [
   {
+  "site":"磁力猪",
+  "waiting":"0",
+  "group":"//div[@class='row']",
+  "magnet":".//a//@href",
+  "name":".//a",
+  "size":".//div[@class='col-sm-2 col-lg-1 hidden-xs text-right size']",
+  "count":".//div[@class='col-sm-2 col-lg-2 hidden-xs text-right date']",
+  "source":"http://www.clpig.com/torrent/XXX.html"
+  },
+  {
   "site":"面包搜索",
   "waiting":"0",
   "group":"//div[@class='search-item']",
