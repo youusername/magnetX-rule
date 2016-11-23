@@ -30,16 +30,6 @@
   "source":"http://icili.org/list/XXX/1"
   },
   {
-  "site":"磁力吧",
-  "waiting":"0",
-  "group":"//div[@class='search-item']",
-  "magnet":".//a//@href",
-  "name":".//a",
-  "size":".//span[3]//b",
-  "count":".//span[2]//b",
-  "source":"http://www.ciliba.org/s/XXX.html"
-  },
-  {
   "site":"BT云搜",
   "waiting":"0",
   "group":"//li[@class='media']",
