@@ -1,18 +1,1 @@
-{
-  "present": [
-    {
-    "name": "磁力链接",
-    "url": "https://zh.wikipedia.org/wiki/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5"
-  },
-    {
-    "name": "ED2k链接",
-    "url": "https://zh.wikipedia.org/wiki/ED2k%E9%93%BE%E6%8E%A5"
-  },
-    {
-    "name": "BitTorrent_(协议)",
-    "url": "https://zh.wikipedia.org/wiki/BitTorrent_(%E5%8D%8F%E8%AE%AE)"
-  }
-  ],
-  "v": "1.0.1",
-  "b": "5"
-}
+{"present":[{"name":"磁力链接","url":"https:\/\/zh.wikipedia.org\/wiki\/%E7%A3%81%E5%8A%9B%E9%93%BE%E6%8E%A5"},{"name":"ED2k链接","url":"https:\/\/zh.wikipedia.org\/wiki\/ED2k%E9%93%BE%E6%8E%A5"},{"name":"BitTorrent_(协议)","url":"https:\/\/zh.wikipedia.org\/wiki\/BitTorrent_(%E5%8D%8F%E8%AE%AE)"}],"v":"1.0.1","b":"5"}
