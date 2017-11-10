@@ -11,6 +11,22 @@
     {
     "name": "BitTorrent_(协议)",
     "url": "https://zh.wikipedia.org/wiki/BitTorrent_(%E5%8D%8F%E8%AE%AE)"
+  },
+    {
+    "name": "多源文件传输协议",
+    "url": "https://zh.wikipedia.org/wiki/%E5%A4%9A%E6%BA%90%E6%96%87%E4%BB%B6%E4%BC%A0%E8%BE%93%E5%8D%8F%E8%AE%AE"
+  },
+    {
+    "name": "EDonkey网络",
+    "url": "https://zh.wikipedia.org/wiki/EDonkey%E7%BD%91%E7%BB%9C"
+  },
+    {
+    "name": "Kad网络",
+    "url": "https://zh.wikipedia.org/wiki/Kad%E7%BD%91%E7%BB%9C"
+  },
+    {
+    "name": "Overnet",
+    "url": "https://zh.wikipedia.org/wiki/Overnet"
   }
   ],
   "v": "1.0.1",
